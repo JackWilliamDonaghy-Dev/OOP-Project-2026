@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jacki\\OneDrive - Atlantic TU\\Documents\\GitHub\\OOP-Project-2026\\OOP_2026Project_McManus\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\JackDonaghy-STUDENT\\OneDrive - Atlantic TU\\Documents\\GitHub\\OOP-Project-2026\\OOP_2026Project_McManus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC257BF-98BF-4AA1-93ED-86F3B11168ED}|Pulse01\\Pulse01.csproj|c:\\users\\jackdonaghy-student\\onedrive - atlantic tu\\documents\\github\\oop-project-2026\\oop_2026project_mcmanus\\pulse01\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC257BF-98BF-4AA1-93ED-86F3B11168ED}|Pulse01\\Pulse01.csproj|solutionrelative:pulse01\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\JackDonaghy-STUDENT\\OneDrive - Atlantic TU\\Documents\\GitHub\\OOP-Project-2026\\OOP_2026Project_McManus\\Pulse01\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Pulse01\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\JackDonaghy-STUDENT\\OneDrive - Atlantic TU\\Documents\\GitHub\\OOP-Project-2026\\OOP_2026Project_McManus\\Pulse01\\MauiProgram.cs",
+              "RelativeToolTip": "Pulse01\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:13:38.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

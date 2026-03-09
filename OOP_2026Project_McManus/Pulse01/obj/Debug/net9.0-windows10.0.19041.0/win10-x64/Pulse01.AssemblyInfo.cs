@@ -11,10 +11,14 @@
 using System;
 using System.Reflection;
 
+[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.PackageName", "com.companyname.pulse01")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.PublisherName", "User Name")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.Name", "Pulse01")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.Version", "1.0.0.1")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pulse01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd9d787c42b4962835b8a8b817fca27b0cc0abd1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+1e392cf9e0c94b831a83975dd96b70de4629d4f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pulse01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pulse01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
